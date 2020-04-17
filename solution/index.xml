@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Giải pháp quản trị doanh nghiệp số</title>
+    <link>/solution/</link>
+    <description>Recent content in Solutions on Giải pháp quản trị doanh nghiệp số</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2017. All Rights Reserved.</copyright>
+    
+	<atom:link href="/solution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Điều hành online Zen BOS</title>
+      <link>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</guid>
+      <description>Giới thiệu chung  ZenBOS - Operating System for Business là hệ thống phần mềm điều hành doanh nghiệp, bao gồm các phân hệ lõi để xử lý và theo dõi các hoạt động diễn ra hàng ngày tại doanh nghiệp.</description>
+    </item>
+    
+    <item>
+      <title>ZEN Inventory OnCloud</title>
+      <link>/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</guid>
+      <description> &amp;lt;li&amp;gt;10GB Disk Space&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;100GB Monthly Bandwith&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;20 Email Accounts&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Unlimited Subdomains&amp;lt;/li&amp;gt; Tối đa 3 cửa hàng Tối đa 3 nhà kho Không giới hạn nhân viên Tính năng Bán hàng Tính năng Tồn kho Tính năng Khách hàng  </description>
+    </item>
+    
+    <item>
+      <title>Quản trị doanh nghiệp Zen ERP</title>
+      <link>/solutions/quan-tri-doanh-nghiep-zen-erp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-tri-doanh-nghiep-zen-erp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quản lý kho Zen WMS</title>
+      <link>/solutions/phan-mem-quan-ly-kho-zen-wms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/phan-mem-quan-ly-kho-zen-wms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quản lý bán hàng Zen Flow</title>
+      <link>/solutions/quan-ly-ban-hang-zen-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-ly-ban-hang-zen-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quản lý TCVM - Zen mFMS</title>
+      <link>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</guid>
+      <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
+    </item>
+    
+    <item>
+      <title>Zen Web</title>
+      <link>/solutions/dich-vu-web-nhanh-saas-zen-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/dich-vu-web-nhanh-saas-zen-web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

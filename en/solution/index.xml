@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Business management management solutions</title>
+    <link>/en/solution/</link>
+    <description>Recent content in Solutions on Business management management solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2017. All Rights Reserved.</copyright>
+    
+	<atom:link href="/en/solution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phần mềm quản trị doanh nghiệp Zen ERP</title>
+      <link>/en/solutions/quan-tri-doanh-nghiep-zen-erp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/quan-tri-doanh-nghiep-zen-erp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zen BOS</title>
+      <link>/en/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</guid>
+      <description>Giới thiệu chung  ZenBOS - Operating System for Business là hệ thống phần mềm điều hành doanh nghiệp, bao gồm các phân hệ lõi để xử lý và theo dõi các hoạt động diễn ra hàng ngày tại doanh nghiệp.</description>
+    </item>
+    
+    <item>
+      <title>Zen Flow</title>
+      <link>/en/solutions/quan-ly-ban-hang-zen-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/quan-ly-ban-hang-zen-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zen Inventory</title>
+      <link>/en/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zen mFMS</title>
+      <link>/en/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</guid>
+      <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
+    </item>
+    
+    <item>
+      <title>Zen Web</title>
+      <link>/en/solutions/dich-vu-web-nhanh-saas-zen-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/dich-vu-web-nhanh-saas-zen-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zen WMS</title>
+      <link>/en/solutions/phan-mem-quan-ly-kho-zen-wms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/solutions/phan-mem-quan-ly-kho-zen-wms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

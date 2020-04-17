@@ -1,0 +1,73 @@
+/* Add here all your CSS customizations */
+.product-box {
+    /*cursor: pointer;*/
+    position: relative;
+    margin: 15px;
+    min-height: 284px;
+}
+
+.product-box:hover {
+    box-shadow: 0 0 25px 0 rgba(90, 77, 131, .3);
+    transition: all .3s ease;
+    /*border-bottom: solid 1px #f47721;*/
+}
+
+/* Add here all your CSS customizations */
+/*.click-link:hover {*/
+/*    border-bottom: solid 1px red;*/
+/*    margin-top: -3px;*/
+/*}*/
+
+.client-slide-img {
+    height: 73px;
+    width: auto !important;
+    margin: auto;
+}
+.customers {
+    display: inline-block;
+    text-align: center;
+    padding-top: 60px;
+    overflow: hidden;
+}
+.customers .li {
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.boxes__item {
+    box-sizing: border-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1);
+    padding: 20px;
+    transition: all .3s ease;
+    margin: 0 10px;
+    width: 100%;
+    max-width: 300px
+}
+
+.boxes__item:hover {
+    box-shadow: 0 0 25px 0 rgba(90, 77, 131, .3);
+    transition: all .3s ease
+}
+
+/* Post, blog */
+.post-content {
+    text-align: justify;
+}
+
+article.post .post-image {
+	text-align: center
+}
+
+article.post figure {
+	text-align: center
+}
