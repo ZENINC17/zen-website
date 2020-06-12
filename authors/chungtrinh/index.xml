@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Business management management solutions</title>
-    <link>/en/tags/</link>
-    <description>Recent content in Tags on Business management management solutions</description>
+    <title>Giải pháp quản trị doanh nghiệp số</title>
+    <link>/authors/chungtrinh/</link>
+    <description>Recent content on Giải pháp quản trị doanh nghiệp số</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2017. All Rights Reserved.</copyright>
     
-	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/chungtrinh/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

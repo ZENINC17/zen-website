@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>/en/authors.html/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/authors.html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors.html/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +41,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
                 />
   </url>
   
@@ -115,20 +115,6 @@
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/careers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -195,20 +181,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/solutions/dich-vu-web-nhanh-saas-zen-web/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/solutions/dich-vu-web-nhanh-saas-zen-web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/solutions/dich-vu-web-nhanh-saas-zen-web/"
                 />
   </url>
   

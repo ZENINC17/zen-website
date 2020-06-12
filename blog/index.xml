@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Giải pháp quản trị doanh nghiệp số</title>
+    <title>Giải pháp quản trị doanh nghiệp số</title>
     <link>/blog/</link>
-    <description>Recent content in Blogs on Giải pháp quản trị doanh nghiệp số</description>
+    <description>Recent content on Giải pháp quản trị doanh nghiệp số</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2017. All Rights Reserved.</copyright>
@@ -59,6 +59,15 @@ Công ty Cổ Phần Phần Giải pháp Công nghệ ZEN xin trân trọng gử
       <guid>/blog/2019-04-thong-bao-lich-nghi-le-gio-to-hung-vuong/</guid>
       <description>Kính gửi: Quý khách hàng và đối tác
 Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Quý khách hàng và đối tác đã dành sự tin tưởng, lựa chọn sản phẩm phần mềm – dịch vụ của chúng tôi trong thời gian qua.</description>
+    </item>
+    
+    <item>
+      <title>Golive dự án Tự động hóa quy trình thu mua và Quản lý chất lượng</title>
+      <link>/blog/2018-08-golive-du-an-tu-dong-hoa-thu-mua-cao-su-phuoc-hoa/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-08-golive-du-an-tu-dong-hoa-thu-mua-cao-su-phuoc-hoa/</guid>
+      <description>Ngày 8/8/2018, ZENTECH và PHURUCO (Công ty cổ phần Cao su Phước Hoà) đã chính thức go-live dự án Phần mềm tự động hoá quy trình thu mua và quản lý chất lượng mủ cao su thu mua.</description>
     </item>
     
   </channel>

@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Zen Web</title>
+      <link>/solutions/dich-vu-web-nhanh-saas-zen-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/dich-vu-web-nhanh-saas-zen-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quản trị doanh nghiệp Zen ERP</title>
       <link>/solutions/quan-tri-doanh-nghiep-zen-erp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,6 +125,15 @@ Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Qu
     </item>
     
     <item>
+      <title>Golive dự án Tự động hóa quy trình thu mua và Quản lý chất lượng</title>
+      <link>/blog/2018-08-golive-du-an-tu-dong-hoa-thu-mua-cao-su-phuoc-hoa/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-08-golive-du-an-tu-dong-hoa-thu-mua-cao-su-phuoc-hoa/</guid>
+      <description>Ngày 8/8/2018, ZENTECH và PHURUCO (Công ty cổ phần Cao su Phước Hoà) đã chính thức go-live dự án Phần mềm tự động hoá quy trình thu mua và quản lý chất lượng mủ cao su thu mua.</description>
+    </item>
+    
+    <item>
       <title>Customers</title>
       <link>/customers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -152,21 +170,30 @@ Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Qu
     </item>
     
     <item>
+      <title>Theme 01</title>
+      <link>/zenwebtheme/theme01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zenwebtheme/theme01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme 02</title>
+      <link>/zenwebtheme/theme02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zenwebtheme/theme02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thông tin tuyển dụng</title>
       <link>/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/careers/</guid>
       <description>Tham gia cùng đội ngũ ZENer Đến với ZEN, bạn có cơ hội thể hiện năng lực, phát huy sáng tạo.</description>
-    </item>
-    
-    <item>
-      <title>Zen Web</title>
-      <link>/solutions/dich-vu-web-nhanh-saas-zen-web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/solutions/dich-vu-web-nhanh-saas-zen-web/</guid>
-      <description></description>
     </item>
     
   </channel>
