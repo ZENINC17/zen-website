@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zencube on Giải pháp quản trị doanh nghiệp số</title>
+    <link>/tags/zencube/</link>
+    <description>Recent content in zencube on Giải pháp quản trị doanh nghiệp số</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2017. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/zencube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xử lý phân tích dữ liệu trực tuyến – OLAP</title>
+      <link>/blog/2020-07-xu-ly-phan-tich-du-lieu-truc-tuyen/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-07-xu-ly-phan-tich-du-lieu-truc-tuyen/</guid>
+      <description>Hệ thống OLAP (On Line Analysis Processing - Xử lý phân tích trực tuyến) là một hệ thống xử lý dữ liệu mạnh.</description>
+    </item>
+    
+  </channel>
+</rss>

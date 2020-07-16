@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2017. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -73,6 +73,15 @@
       
       <guid>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</guid>
       <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
+    </item>
+    
+    <item>
+      <title>Xử lý phân tích dữ liệu trực tuyến – OLAP</title>
+      <link>/blog/2020-07-xu-ly-phan-tich-du-lieu-truc-tuyen/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-07-xu-ly-phan-tich-du-lieu-truc-tuyen/</guid>
+      <description>Hệ thống OLAP (On Line Analysis Processing - Xử lý phân tích trực tuyến) là một hệ thống xử lý dữ liệu mạnh.</description>
     </item>
     
     <item>

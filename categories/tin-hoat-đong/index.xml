@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giải pháp quản trị doanh nghiệp số</title>
-    <link>/authors/linhhoang/</link>
-    <description>Recent content on Giải pháp quản trị doanh nghiệp số</description>
+    <title>Tin hoạt động on Giải pháp quản trị doanh nghiệp số</title>
+    <link>/categories/tin-hoat-%C4%91ong/</link>
+    <description>Recent content in Tin hoạt động on Giải pháp quản trị doanh nghiệp số</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2017. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/linhhoang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/tin-hoat-%C4%91ong/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Order Fulfillment – Dịch vụ hoàn tất đơn hàng là gì?</title>
-      <link>/blog/2019-12-order-fulfillment-dich-vu-hoan-tat-don-hang-la-gi/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019-12-order-fulfillment-dich-vu-hoan-tat-don-hang-la-gi/</guid>
-      <description>Order Fulfillment có thể hiểu đơn giản là Toàn bộ quá trình từ lúc Khách hàng đặt mua đến lúc sản phẩm được giao tới tận tay người dùng, bao gồm lấy hàng.</description>
-    </item>
     
     <item>
       <title>Thông báo thay đổi địa chỉ giao dịch</title>

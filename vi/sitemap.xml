@@ -91,14 +91,39 @@
   </url>
   
   <url>
+    <loc>/authors/chungtrinh/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/cong-nghe/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,6 +134,56 @@
                 hreflang="vi"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/categories/quan-tri/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/2020-07-xu-ly-phan-tich-du-lieu-truc-tuyen/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/zencube/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/linhhoang/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,6 +198,11 @@
   
   <url>
     <loc>/blog/2019-09-thong-bao-thay-doi-dia-chi-giao-dich/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tin-hoat-%C4%91ong/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -142,29 +222,7 @@
   </url>
   
   <url>
-    <loc>/authors/chungtrinh/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/linhhoang/</loc>
-  </url>
-  
-  <url>
     <loc>/zenwebtheme/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors.html/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors.html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/authors.html/"
-                />
   </url>
   
   <url>
@@ -257,10 +315,6 @@
                 hreflang="vi"
                 href="/careers/"
                 />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
   </url>
   
 </urlset>

@@ -17,16 +17,16 @@
   </url>
   
   <url>
-    <loc>/en/authors.html/</loc>
+    <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/authors.html/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors.html/"
+                href="/en/authors/"
                 />
   </url>
   
@@ -41,6 +41,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
                 />
   </url>
   
@@ -111,6 +125,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/solution/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url>
   
