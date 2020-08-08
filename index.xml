@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Phần mềm quản lý tài sản Zen AMS</title>
+      <link>/solutions/quan-ly-tai-san-zen-ams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-ly-tai-san-zen-ams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Điều hành online Zen BOS</title>
       <link>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +152,42 @@ Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Qu
     </item>
     
     <item>
+      <title>Bills</title>
+      <link>/books/bills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/bills/</guid>
+      <description>Bảng giá Invoices</description>
+    </item>
+    
+    <item>
+      <title>Bài 1.1</title>
+      <link>/books/help/1-bai1.01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/help/1-bai1.01/</guid>
+      <description>Bài HDSD 01</description>
+    </item>
+    
+    <item>
+      <title>Bài 1.2</title>
+      <link>/books/help/1-bai1.02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/help/1-bai1.02/</guid>
+      <description>Bài HDSD 01</description>
+    </item>
+    
+    <item>
+      <title>Bài 2.1</title>
+      <link>/books/help/2-bai2.01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/help/2-bai2.01/</guid>
+      <description>Bài HDSD 01</description>
+    </item>
+    
+    <item>
       <title>Customers</title>
       <link>/customers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -161,12 +206,48 @@ Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Qu
     </item>
     
     <item>
+      <title>feature 01</title>
+      <link>/books/features/day-la-tinh-nang-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/features/day-la-tinh-nang-1/</guid>
+      <description>Đây là tính năng 01</description>
+    </item>
+    
+    <item>
+      <title>feature 02</title>
+      <link>/books/features/feature02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/features/feature02/</guid>
+      <description>Đây là tính năng 02</description>
+    </item>
+    
+    <item>
+      <title>feature 03</title>
+      <link>/books/features/feature03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/features/feature03/</guid>
+      <description>Đây là tính năng 03</description>
+    </item>
+    
+    <item>
       <title>Giới thiệu</title>
       <link>/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-us/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Invoices</title>
+      <link>/books/invoice-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/invoice-management/</guid>
+      <description>Bảng giá Invoices</description>
     </item>
     
     <item>
@@ -179,30 +260,21 @@ Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Qu
     </item>
     
     <item>
-      <title>Theme 01</title>
-      <link>/zenwebtheme/theme01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zenwebtheme/theme01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme 02</title>
-      <link>/zenwebtheme/theme02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zenwebtheme/theme02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thông tin tuyển dụng</title>
       <link>/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/careers/</guid>
       <description>Tham gia cùng đội ngũ ZENer Đến với ZEN, bạn có cơ hội thể hiện năng lực, phát huy sáng tạo.</description>
+    </item>
+    
+    <item>
+      <title>Zen Book Pricing</title>
+      <link>/books/zen-book-pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/zen-book-pricing/</guid>
+      <description>Bảng giá zenbook</description>
     </item>
     
   </channel>

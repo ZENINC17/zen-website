@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/solutions/quan-ly-tai-san-zen-ams/</loc>
+  </url>
+  
+  <url>
     <loc>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -222,7 +226,19 @@
   </url>
   
   <url>
-    <loc>/zenwebtheme/</loc>
+    <loc>/books/bills/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/help/1-bai1.01/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/help/1-bai1.02/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/help/2-bai2.01/</loc>
   </url>
   
   <url>
@@ -254,6 +270,18 @@
   </url>
   
   <url>
+    <loc>/books/features/day-la-tinh-nang-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/features/feature02/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/features/feature03/</loc>
+  </url>
+  
+  <url>
     <loc>/about-us/</loc>
     <xhtml:link
                 rel="alternate"
@@ -265,6 +293,14 @@
                 hreflang="vi"
                 href="/about-us/"
                 />
+  </url>
+  
+  <url>
+    <loc>/books/help/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/invoice-management/</loc>
   </url>
   
   <url>
@@ -296,14 +332,6 @@
   </url>
   
   <url>
-    <loc>/zenwebtheme/theme01/</loc>
-  </url>
-  
-  <url>
-    <loc>/zenwebtheme/theme02/</loc>
-  </url>
-  
-  <url>
     <loc>/careers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -315,6 +343,18 @@
                 hreflang="vi"
                 href="/careers/"
                 />
+  </url>
+  
+  <url>
+    <loc>/books/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/features/</loc>
+  </url>
+  
+  <url>
+    <loc>/books/zen-book-pricing/</loc>
   </url>
   
 </urlset>

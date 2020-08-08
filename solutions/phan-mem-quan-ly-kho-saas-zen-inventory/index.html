@@ -159,9 +159,8 @@
 
 
 
-<header id="header" class="header-transparent header-effect-shrink appear-animation"
-    data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}"
-    data-appear-animation="fadeIn" data-appear-animation-delay="200">
+
+<header id="header" class="header-transparent header-effect-shrink appear-animation" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}" data-appear-animation="fadeIn" data-appear-animation-delay="200">
     <div class="header-body border-color-primary header-body-bottom-border">
         
 <div class="header-top header-top-default border-bottom">
@@ -195,6 +194,8 @@
                                     <a class="dropdown-item" href="/solutions/phan-mem-quan-ly-kho-zen-wms">Quản lý nhà kho - ZEN WMS</a>
                                     
                                     <a class="dropdown-item" href="/solutions/quan-ly-ban-hang-zen-flow">Quản lý bán hàng - ZEN Flow</a>
+                                    
+                                    <a class="dropdown-item" href="/solutions/quan-ly-tai-san-zen-ams">Quản lý tài sản - ZEN AMS</a>
                                     
                                     <a class="dropdown-item" href="/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms">Quản lý tài chính vi mô Zen FMS</a>
                                     
@@ -271,84 +272,77 @@
     </div>
 </div>
 
-
         
-<div class="header-container container">
-    <div class="header-row">
         
-        <div class="header-column justify-content-start">
+        <div class="header-container container" >
             <div class="header-row">
-                <a class="text-decoration-none" href="#home">
-                    <h2 class="ml-4 font-weight-semibold text-7" style="margin:0px">ZEN Inventory</h2>
-                </a>
                 
-            </div>
-        </div>
-        
-        
-        <div class="header-column justify-content-end">
-            <div class="header-row">
-                <div class="header-nav header-nav-links order-2 order-lg-1">
-                    <div
-                        class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
-                        <nav class="collapse">
-                            <ul class="nav nav-pills" id="mainNav">
-                                
-                                
-                                <li class="dropdown">
-                                    
-                                    <a class="dropdown-item" data-hash data-hash-offset="95"
-                                        href="#features">Tính năng</a>
-                                    
-                                </li>
-                                
-                                <li class="dropdown">
-                                    
-                                    <a class="dropdown-item" data-hash data-hash-offset="95"
-                                        href="#pricing">Bảng giá</a>
-                                    
-                                </li>
-                                
-                                <li class="dropdown">
-                                    
-                                    <a class="dropdown-item" data-hash data-hash-offset="95"
-                                        href="#">Hướng dẫn</a>
-                                    
-                                </li>
-                                
-                                <li class="dropdown">
-                                    
-                                    <a class="dropdown-item" data-hash data-hash-offset="95"
-                                        href="#">Blog</a>
-                                    
-                                </li>
-                                
-                                <li class="dropdown">
-                                    
-                                    <a class="dropdown-item" data-hash data-hash-offset="95"
-                                        href="#">Đăng nhập</a>
-                                    
-                                </li>
-                                
-                                
-                            </ul>
-                        </nav>
+                <div class="header-column justify-content-start">
+                    <div class="header-row">
+                        <a class="text-decoration-none" href="#home">
+                            <h2 class="ml-4 font-weight-semibold text-7" style="margin:0px" >ZEN Inventory</h2>
+                        </a>
+                        
                     </div>
-                    <button class="btn header-btn-collapse-nav" data-toggle="collapse"
-                        data-target=".header-nav-main nav">
-                        <i class="fas fa-bars"></i>
-                    </button>
                 </div>
                 
-                <a class="btn btn-primary btn-rounded font-weight-semibold text-3 order-1 order-lg-2 d-none d-md-block mr-3 mr-lg-0"
-                    data-hash data-hash-offset="65" href="#">Đăng ký sử dụng</a>
+                
+                <div class="header-column justify-content-end">
+                    <div class="header-row">
+                        <div class="header-nav header-nav-links order-2 order-lg-1">
+                            <div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
+                                <nav class="collapse">
+                                    <ul class="nav nav-pills" id="mainNav">
+                                        
+                                        
+                                        <li class="dropdown">
+                                            
+                                            <a class="dropdown-item" data-hash data-hash-offset="95" href="#features">Tính năng</a>
+                                            
+                                        </li>
+                                        
+                                        <li class="dropdown">
+                                            
+                                            <a class="dropdown-item" data-hash data-hash-offset="95" href="#pricing">Bảng giá</a>
+                                            
+                                        </li>
+                                        
+                                        <li class="dropdown">
+                                            
+                                            <a class="dropdown-item" data-hash data-hash-offset="95" href="#">Hướng dẫn</a>
+                                            
+                                        </li>
+                                        
+                                        <li class="dropdown">
+                                            
+                                            <a class="dropdown-item" data-hash data-hash-offset="95" href="#">Blog</a>
+                                            
+                                        </li>
+                                        
+                                        <li class="dropdown">
+                                            
+                                            <a class="dropdown-item" data-hash data-hash-offset="95" href="#">Đăng nhập</a>
+                                            
+                                        </li>
+                                        
+                                        
+                                    </ul>
+                                </nav>
+                            </div>                            
+                            <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main nav">
+                                <i class="fas fa-bars"></i>
+                            </button>
+                        </div>
+                        
+                        <a class="btn btn-primary btn-rounded font-weight-semibold text-3 order-1 order-lg-2 d-none d-md-block mr-3 mr-lg-0" 
+                            data-hash data-hash-offset="65" href="#">Đăng ký sử dụng</a>
+                        
+                    </div>
+                </div>
                 
             </div>
         </div>
         
-    </div>
-</div>
-
 
     </div>
 </header>
@@ -356,42 +350,36 @@
 
 
 <div role="main" class="main">
-    <section id="home" class="section bg-color-light position-relative border-0 m-0" style="min-height: 643px;">
-        
+    <section id="home" class="section bg-color-light position-relative border-0 m-0" 
+            style="min-height: 643px;">
+
         <div class="container position-relative py-5">
             <div class="row align-items-center py-5">
                 <div class="col-lg-6 pt-4 pt-lg-0 mt-5 mt-lg-0 mb-5 mb-lg-0">
-                    <div class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="400">
-                        <h1 class="mb-4 mb-md-0 mb-xl-3" data-plugin-float-element
-                            data-plugin-options="{'startPos': 'none', 'speed': 1, 'transition': true, 'horizontal': false}">
+                    <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
+                        <h1 class="mb-4 mb-md-0 mb-xl-3" data-plugin-float-element data-plugin-options="{'startPos': 'none', 'speed': 1, 'transition': true, 'horizontal': false}">
                             
                             Phần mềm quản lý kho đơn giản, dễ sử dụng</h1>
                     </div>
-                    <div class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="600">
-                        <p class="text-4 mb-5 mb-md-2" data-plugin-float-element
-                            data-plugin-options="{'startPos': 'none', 'speed': 0.5, 'transition': true, 'horizontal': false}">
+                    <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">
+                        <p class="text-4 mb-5 mb-md-2" data-plugin-float-element data-plugin-options="{'startPos': 'none', 'speed': 0.5, 'transition': true, 'horizontal': false}">
                             Sản phẩm, đơn hàng, khách hàng, tồn kho … tất cả trong một nền tảng</p>
                     </div>
-                    <div class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="800">
-                        <a data-hash data-hash-offset="95" href="#pricing"
-                            class="btn btn-primary btn-rounded btn-outline font-weight-semibold text-4 btn-px-5 btn-py-2"
-                            data-plugin-float-element
+                    <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
+                        <a data-hash data-hash-offset="95" href="#pricing" 
+                            class="btn btn-primary btn-rounded btn-outline font-weight-semibold text-4 btn-px-5 btn-py-2" 
+                            data-plugin-float-element 
                             data-plugin-options="{'startPos': 'none', 'speed': 0.3, 'transition': true, 'horizontal': false}">Đăng ký sử dụng</a>
                     </div>
                 </div>
-                <div class="col-lg-6 text-center mt-5 appear-animation" data-appear-animation="fadeInRightShorter"
-                    data-appear-animation-delay="550">
+                <div class="col-lg-6 text-center mt-5 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">
                     <img src="/images/solutions/zen-inventory/quan-ly-kho-zen-inventory.png"
-                        class="img-fluid" alt="" data-plugin-float-element
-                        data-plugin-options="{'startPos': 'none', 'speed': 8, 'transition': true, 'horizontal': true}" />
+                        class="img-fluid" alt="" data-plugin-float-element data-plugin-options="{'startPos': 'none', 'speed': 8, 'transition': true, 'horizontal': true}" />
                 </div>
             </div>
         </div>
     </section>
-
+    
     <hr class="dashed" />
     <div class="container py-5 mb-5" id="features">
         <div class="row">
@@ -452,41 +440,25 @@
                     <img class="img-fluid" src="/images/solutions/zen-inventory/overview-saas.png" alt="">
                 </div>
                 <div class="col-lg-6 text-center text-lg-left">
-                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Công nghệ Điện toán đám mây</h2>
-                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa
-                        enim. Nullam id varius nunc. </p>
-                    <p class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus
-                        lacus venenatis.</p>
-                    <a href="#"
-                        class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
+                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Công nghệ Điện toán đám mây</h2>
+                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa enim. Nullam id varius nunc. </p>
+                    <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis.</p>
+                    <a href="#" class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
                 </div>
             </div>
         </div>
     </section>
-    
+        
     
     
     <section class="section m-0 mt-0 border-0">
         <div class="container">
             <div class="row py-2 align-items-center justify-content-center">
                 <div class="col-lg-6 text-center text-lg-left">
-                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Nghiệp vụ đầy đủ, chuyên sâu</h2>
-                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa
-                        enim. Nullam id varius nunc.</p>
-                    <p class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus
-                        lacus venenatis eget.</p>
-                    <a href="#"
-                        class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
+                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Nghiệp vụ đầy đủ, chuyên sâu</h2>
+                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa enim. Nullam id varius nunc.</p>
+                    <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                    <a href="#" class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
                 </div>
                 <div class="col-lg-6 text-center">
                     <img class="img-fluid" src="/images/solutions/zen-inventory/overview-02.png" alt="">
@@ -494,7 +466,7 @@
             </div>
         </div>
     </section>
-    
+        
     
     
     <section class="section m-0 mt-0 border-0 p-relative bg-transparent">
@@ -504,41 +476,25 @@
                     <img class="img-fluid" src="/images/solutions/zen-inventory/overview-03.png" alt="">
                 </div>
                 <div class="col-lg-6 text-center text-lg-left">
-                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Giao diện trực quan, thân thiện</h2>
-                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa
-                        enim. Nullam id varius nunc. </p>
-                    <p class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus
-                        lacus venenatis.</p>
-                    <a href="#"
-                        class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
+                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Giao diện trực quan, thân thiện</h2>
+                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa enim. Nullam id varius nunc. </p>
+                    <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis.</p>
+                    <a href="#" class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
                 </div>
             </div>
         </div>
     </section>
-    
+        
     
     
     <section class="section m-0 mt-0 border-0">
         <div class="container">
             <div class="row py-2 align-items-center justify-content-center">
                 <div class="col-lg-6 text-center text-lg-left">
-                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Vận hành đa nền tảng</h2>
-                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa
-                        enim. Nullam id varius nunc.</p>
-                    <p class="appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus
-                        lacus venenatis eget.</p>
-                    <a href="#"
-                        class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation"
-                        data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
+                    <h2 class="text-color-dark font-weight-bold text-6 mb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">Vận hành đa nền tảng</h2>
+                    <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit massa enim. Nullam id varius nunc.</p>
+                    <p class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
+                    <a href="#" class="btn btn-dark custom-secondary-font font-weight-bold text-3 px-5 py-3 mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">VIEW OUR PLANS</a>
                 </div>
                 <div class="col-lg-6 text-center">
                     <img class="img-fluid" src="/images/solutions/zen-inventory/overview-04.png" alt="">
@@ -546,10 +502,10 @@
             </div>
         </div>
     </section>
+        
     
     
 
-    
     <section class="section section-height-3 bg-transparent m-0 border-0" id="pricing">
         <div class="container">
             <div class="row py-2">
@@ -560,7 +516,7 @@
             </div>
 
             <div class="pricing-table py-5">
-                
+            
                 <div class="col-md-6 col-lg-4">
                     <div class="plan ">
                         <div class="plan-header ">
@@ -580,12 +536,11 @@
                             </ul>
                         </div>
                         <div class="plan-footer">
-                            <a href="#"
-                                class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
+                            <a href="#" class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
                         </div>
                     </div>
                 </div>
-                
+            
                 <div class="col-md-6 col-lg-4">
                     <div class="plan plan-featured">
                         <div class="plan-header bg-primary">
@@ -605,12 +560,11 @@
                             </ul>
                         </div>
                         <div class="plan-footer">
-                            <a href="#"
-                                class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
+                            <a href="#" class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
                         </div>
                     </div>
                 </div>
-                
+            
                 <div class="col-md-6 col-lg-4">
                     <div class="plan ">
                         <div class="plan-header ">
@@ -630,12 +584,11 @@
                             </ul>
                         </div>
                         <div class="plan-footer">
-                            <a href="#"
-                                class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
+                            <a href="#" class="btn btn-primary btn-rounded btn-modern btn-outline py-2 px-4">Dùng thử</a>
                         </div>
                     </div>
                 </div>
-                
+            
             </div>
 
         </div>
@@ -676,6 +629,9 @@
                             
                             <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1"
                                     href="/solutions/quan-ly-ban-hang-zen-flow">Quản lý bán hàng</a></li>
+                            
+                            <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1"
+                                    href="/solutions/quan-ly-tai-san-zen-ams">Quản lý tài sản</a></li>
                             
                             <li><i class="fas fa-angle-right top-8"></i> <a class="link-hover-style-1"
                                     href="/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms">Quản lý tài chính vi mô</a></li>
