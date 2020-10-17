@@ -76,3 +76,88 @@ article.post .post-image {
 article.post figure {
     text-align: center;
 }
+
+/*Table of contents*/
+#TableOfContents {
+    display:block;
+    /* padding-left:.5rem;
+    padding-bottom:1rem; */
+    font-size:1rem;
+    color:#1a202c
+   }
+
+#TableOfContents ul {
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: relative;
+}
+
+   #TableOfContents li {
+    margin: 0;
+	padding: 0;
+	display: block;
+	position: relative;
+   }
+
+   #TableOfContents li a {
+	-webkit-transition: background 0.1s;
+	transition: background 0.1s;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+	padding: 8px 0 8px 22px;
+	display: block;
+	color: #666;
+	font-size: 0.9em;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+#TableOfContents li a:before {
+	font-family: 'Font Awesome 5 Free';
+	content: "\f054";
+	font-weight: 900;
+	position: absolute;
+	top: 8px;
+	font-size: 7.2px;
+	font-size: 0.45rem;
+	opacity: 0.7;
+	-webkit-transform: translate3d(-1px, 0, 0);
+	transform: translate3d(-1px, 0, 0);
+	left: 12px;
+}
+#TableOfContents ul li a:hover {
+	text-decoration: none;
+}
+
+
+#TableOfContents ul li a:hover:before,
+#TableOfContents ul li a:hover i[class*="fa-chevron"] {
+	-webkit-animation-name: arrowLeftRight;
+	animation-name: arrowLeftRight;
+	-webkit-animation-duration: 500ms;
+	animation-duration: 500ms;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
+
+#TableOfContents ul li a i[class*="fa-chevron"] {
+	position: relative;
+	top: -1px;
+	font-size: 8px;
+	font-size: 0.5rem;
+	opacity: 0.8;
+}
+
+#TableOfContents ul li > a.active {
+	font-weight: bold;
+}
+
+#TableOfContents ul li ul {
+	list-style: none;
+	margin: 0 0 0 25px;
+	padding: 0;
+}
+
+#TableOfContents ul li:last-child a {
+	border-bottom: 0;
+}

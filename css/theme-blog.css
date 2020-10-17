@@ -134,9 +134,9 @@ article.post-large {
 	margin-left: 60px;
 }
 
-article.post-large h2 {
+/* article.post-large h2 {
 	margin-bottom: 5px;
-}
+} */
 
 article.post-large .post-image, article.post-large .post-date {
 	margin-left: -60px;

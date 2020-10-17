@@ -3,6 +3,11 @@ Name: 			theme.css
 Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	7.5.0
 */
+html, body {
+	scroll-behavior: smooth;
+    scroll-padding-top: 70px;
+}
+
 html {
 	direction: ltr;
 	overflow-x: hidden;
